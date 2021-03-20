@@ -6,7 +6,7 @@ def display_board
   puts "A Tic Tac Toe Board"
 end
 
-def "A Tic Tac Toe Board"
+def display_board
   puts "   |   |   "
   puts "-----------"
   puts "   |   |   "
